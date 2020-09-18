@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-https://react-my-burger-4663b.web.app/
+<a href="https://react-my-burger-4663b.web.app" target="_blank">Click here for demo</a>
 
 ## Versions
 React - ^16.13.1<br />
